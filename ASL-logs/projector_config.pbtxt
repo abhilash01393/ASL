@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "fmnist_embedding_8:0"
+  metadata_path: "ASL-logs\\metadata.tsv"
+  sprite {
+    image_path: "ASL-logs\\sprite.png"
+    single_image_dim: 96
+    single_image_dim: 96
+  }
+}
